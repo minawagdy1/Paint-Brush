@@ -1,5 +1,5 @@
-**Paint Brush Project Specifications 
-**
+Paint Brush Project Specifications 
+
 Abstract 
 Paint Brush is a Jframe-based application that enables the user to draw basic shapes with 
 different colors and line strokes. In addition, the user should have the ability to clear all the 
@@ -34,7 +34,5 @@ Specifications
   drawn as outlines only.
 
 • Undo Button: it lets the user undo the previous action(s). 
-
 • Save Button: it enables the user to save his drawings to a file as image. 
-
 • Open Button: it enables the user to load an image to the drawing area.
